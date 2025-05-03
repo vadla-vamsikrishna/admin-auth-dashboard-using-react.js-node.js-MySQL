@@ -165,7 +165,7 @@ After completing the setup and running both frontend and backend, you can access
 
 ## 👥 Contributor
 
- Vadla Vamsi Krishna (https://github.com/vadla-vamsikrishna/admin-auth-dashboard-using-react.  js-node.js-MySQL.git)
+ Vadla Vamsi Krishna (https://github.com/vadla-vamsikrishna)
 
 ---
 
