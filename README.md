@@ -1,6 +1,3 @@
-Here’s an updated **README.md** for your project that includes the necessary instructions on how to set up and run it:
-
----
 
 # Admin Dashboard with Authentication 🚀
 
@@ -155,12 +152,8 @@ After completing the setup and running both frontend and backend, you can access
 * **Backend**: API requests are handled in the backend running on `http://localhost:3002` (or the port specified in your `index.js` file).
 
 ---
-
 ## 💡 Notes
-
 * Make sure MySQL is running and accessible via **XAMPP** (or another server).
-* Adjust your **CORS** configuration in the **server** to allow frontend requests if necessary.
-
 ---
 
 ## 👥 Contributor
